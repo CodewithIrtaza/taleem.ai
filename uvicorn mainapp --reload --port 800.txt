@@ -1,0 +1,6 @@
+uvicorn main:app --reload --port 8000
+
+# Ctrl+C se server band karo
+npm run dev
+
+t@leemIADFZ
